@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "esp_log.h": "c",
+        "freertos.h": "c",
+        "adc_oneshot.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}
